@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @michaelwahome
 - 👀 I’m interested in:
-  -Learning how to develop applications for windows, android and iOS
-  -Website design and development
-- 🌱 I’m currently learning java and c++ 
+  -Learning how to develop applications for windows, android and iOS.
+  -Website design and development.
+- 🌱 I’m currently learning solidity.
 - 📫 How to reach me:
 +E-mail: michaelwahome1@gmail.com
 +LinkedIn: Michael Wahome
